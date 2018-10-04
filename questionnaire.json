@@ -1,0 +1,26 @@
+{"questionnaire":[
+{"id":1,"question":"How Old are you?","type":"radio",
+"answer":[{"value":"18-25","ref":"2","weight":1},{"value": "25-30","ref":"2","weight":1}, {"value":"30-35","ref":"2","weight":1}, {"value":"35-40","ref":"2","weight":1}, {"value":"40-45","ref":"2","weight":1}, {"value":"45-50","ref":"2","weight":1}, {"value":"50-55","ref":"2","weight":1}, {"value":"55-60","ref":"2","weight":1}, {"value":"60-65","ref":"2","weight":1}, {"value":"65-70 & Above","ref":"2","weight":1}
+]
+},
+{"id":2,"question":"Annual Household Income","type":"radio",
+"answer":[{"value":"<50K","ref":"3","weight":1},{"value": "50-100K","ref":"3","weight":1}, {"value":"100-250K","ref":"3","weight":1}, {"value":"250-500K","ref":"3","weight":1}, {"value":" 500K-1M","ref":"3","weight":1}, {"value":" 1M-2M","ref":"3","weight":1}, {"value":"2M & above","ref":"3","weight":1}]
+},
+{"id":3,"question":"Investment Value","type":"radio",
+"answer":[{"value":"<50K","ref":"4","weight":1},{"value": "50-100K","ref":"4","weight":1}, {"value":"100-250K","ref":"4","weight":1}, {"value":"250-500K","ref":"4","weight":1}, {"value":" 500K-1M","ref":"4","weight":1}, {"value":" 1M-2M","ref":"4","weight":1}, {"value":"2M & above","ref":"4","weight":1}]
+},
+{"id":4,"question":"Are you currently an active investor in","type":"checkbox",
+"answer":[{"value":"Stocks","ref":"5","weight":1},{"value": "Options","ref":"5","weight":1}, {"value":"Futures","ref":"5","weight":1}, {"value":"FX","ref":"5","weight":1}, {"value":" Corporate Bonds","ref":"5","weight":1}, {"value":"Municipal and Treasury Bonds","ref":"5","weight":1}]
+},
+{"id":5,"question":"Do you prefer to invest in ETFs that track an index (like S&P600, Russell 2000 etc.) or a sector (Semiconductor, Biotech etc.) or a region (like Emerging Markets) which typically has benefits of diversification while giving focused exposure to a group of stocks OR do you prefer to invest in individual stocks which doesnt have the benefit of diversification but has a huge upside reward if the stocks moves up in value ?","type":"radio","answer":[{"value":"ETF","ref":"6","weight":1},{"value": "Stocks","ref":"6","weight":1}, {"value":"Both ETFs and Stocks equally","ref":"6","weight":1}]
+},
+{"id":6,"question":"Do you short sell stocks to take advantage of a downward slide of a stock ?","type":"radio","answer":[{"value":"Yes","ref":"7","weight":1},{"value": "No","ref":"7","weight":1}]
+},
+{"id":7,"question":"Do you “Day trade” i.e. Buy/Sell a stock within a day to take advantage of any short term opportunities and take profit/loss by closing the position within a short time period","type":"radio","answer":[{"value":"Yes","ref":"8","weight":1},{"value": "No","ref":"8","weight":1}]
+},
+{"id":8,"question":"If there is an investment opportunity with with a downside risk of losing 10% due to market/stock volatility but with a great upside return potential of 30% over the next 3 months, how much will you invest in such an opportunity","type":"radio","answer":[{"value":"Will not invest","ref":"9","weight":1},{"value": "Will invest $1000-$5000","ref":"9","weight":1},{"value": "Will invest $5000-$10000","ref":"9","weight":1},{"value": "Will invest $10000-$25000","ref":"9","weight":1},{"value": "Will invest $25000-$50000","ref":"9","weight":1},{"value": "Will invest $50000-$100000","ref":"9","weight":1},{"value": "Will invest more than $100000","ref":"9","weight":1}]
+},
+{"id":9,"question":"If due to market volatility your portfolio value drops by 10% over a 1 month period, what will your reaction be ?","type":"radio","answer":[{"value":"Liquidate all positions","ref":null,"weight":1},{"value": "Sell partially and hold the remaining positions","ref":null,"weight":1},{"value": "Invest more taking advantage of drop in value","ref":null,"weight":1}]
+}
+]
+}
