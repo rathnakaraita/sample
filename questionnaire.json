@@ -20,7 +20,7 @@
 },
 {"id":8,"question":"If there is an investment opportunity with with a downside risk of losing 10% due to market/stock volatility but with a great upside return potential of 30% over the next 3 months, how much will you invest in such an opportunity","type":"radio","answer":[{"value":"Will not invest","ref":"9","weight":1},{"value": "Will invest $1000-$5000","ref":"9","weight":1},{"value": "Will invest $5000-$10000","ref":"9","weight":1},{"value": "Will invest $10000-$25000","ref":"9","weight":1},{"value": "Will invest $25000-$50000","ref":"9","weight":1},{"value": "Will invest $50000-$100000","ref":"9","weight":1},{"value": "Will invest more than $100000","ref":"9","weight":1}]
 },
-{"id":9,"question":"Another due to market volatility your portfolio value drops by 10% over a 1 month period, what will your reaction be ?","type":"radio","answer":[{"value":"Liquidate all positions","ref":null,"weight":1},{"value": "Sell partially and hold the remaining positions","ref":null,"weight":1},{"value": "Invest more taking advantage of drop in value","ref":null,"weight":1}]
+{"id":9,"question":"dev due to market volatility your portfolio value drops by 10% over a 1 month period, what will your reaction be ?","type":"radio","answer":[{"value":"Liquidate all positions","ref":null,"weight":1},{"value": "Sell partially and hold the remaining positions","ref":null,"weight":1},{"value": "Invest more taking advantage of drop in value","ref":null,"weight":1}]
 }
 ]
 }
